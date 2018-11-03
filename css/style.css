@@ -9,9 +9,17 @@ body {
 }
 
 /* Global */
-
 .container {
     width: 80%;
     margin: auto;
     overflow: hidden;
+}
+
+/* Header */
+header {
+    background: #35424a;
+    color: #ffffff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #e8491d 3px solid;
 }
