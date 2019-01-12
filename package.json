@@ -1,0 +1,22 @@
+{
+  "name": "html5-website-with-a-responsive-layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brettl1991/HTML5-Website.git"
+  },
+  "author": "Agnes Brettl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brettl1991/HTML5-Website/issues"
+  },
+  "homepage": "https://github.com/brettl1991/HTML5-Website#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
